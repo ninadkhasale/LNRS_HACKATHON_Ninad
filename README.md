@@ -39,7 +39,7 @@ If the news is classified as real, the system fetches related articles from Goog
 Installation and Setup
 
 Clone the Repository:
-git clone https://github.com/yourusername/fake-news-detection.git
+https://github.com/ninadkhasale/LNRS_HACKATHON_Ninad.git
 cd fake-news-detection
 
 Install Dependencies: Install the required Python libraries by running:
